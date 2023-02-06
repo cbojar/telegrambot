@@ -1,0 +1,9 @@
+/cbojar.telegrambot
+
+/.devcontainer
+/.dockerignore
+/.git
+/.gitignore
+/README.md
+
+/token.txt
